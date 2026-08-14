@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0567-permutation-in-string/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0567-permutation-in-string/) | Medium |
