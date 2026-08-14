@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0567-permutation-in-string/) | Medium |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
