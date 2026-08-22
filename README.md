@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumik-chopra/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bhumik-chopra/leetcode-solution/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhumik-chopra/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhumik-chopra/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumik-chopra/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bhumik-chopra/leetcode-solution/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhumik-chopra/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +109,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bhumik-chopra/leetcode-solution/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhumik-chopra/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 <!---LeetCode Topics End-->
