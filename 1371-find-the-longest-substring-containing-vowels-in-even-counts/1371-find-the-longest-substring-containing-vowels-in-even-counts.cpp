@@ -9,16 +9,16 @@ public:
             if(s[i] == 'a') {
                 mask ^= 1;
             }
-            else if(s[i] == 'e') {
+            else if(s[i] =='e') {
                 mask ^= 2;
             }
-            else if(s[i] == 'i') {
+            else if(s[i] =='i') {
                 mask ^= 4;
             }
-            else if(s[i] == 'o') {
+            else if(s[i] =='o') {
                 mask ^= 8;
             }
-            else if(s[i] == 'u') {
+            else if(s[i] =='u') {
                 mask ^= 16;
             }
             if(m.find(mask) != m.end()) {
