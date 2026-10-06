@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0441-arranging-coins](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumik-chopra/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -116,5 +117,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0441-arranging-coins](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0441-arranging-coins/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhumik-chopra/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 <!---LeetCode Topics End-->
