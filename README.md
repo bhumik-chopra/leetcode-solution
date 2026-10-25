@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0704-binary-search/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhumik-chopra/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bhumik-chopra/leetcode-solution/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
