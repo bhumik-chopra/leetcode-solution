@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -119,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0441-arranging-coins/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhumik-chopra/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
