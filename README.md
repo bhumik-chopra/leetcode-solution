@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0053-maximum-subarray](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/bhumik-chopra/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
@@ -127,4 +129,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/bhumik-chopra/leetcode-solution/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
